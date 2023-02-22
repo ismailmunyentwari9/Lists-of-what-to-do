@@ -55,7 +55,7 @@ Setup<br>
 Clone this repository to your desired folder:<br>
 
 1. Clone this repository or download the Zip folder:"<br>
-$ git clone <(https://github.com/ismailmunyentwari9/TodoList.git)><br>
+$ git clone <(https://github.com/ismailmunyentwari9/Lists-of-what-to-do.git)><br>
 2. Navigate to the location of the folder in your machine:<br>
 (C:\Users\AMANI\Documents\GitHub)<br>
 **3. Press Enter to navigate to your local clone.**
