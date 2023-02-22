@@ -43,7 +43,7 @@ input:focus {
 
 input::placeholder {
   font-style: italic;
-  font-size: 21px;
+  font-size: 20px;
 }
 
 #footer {
