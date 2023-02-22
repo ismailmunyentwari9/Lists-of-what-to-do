@@ -1,0 +1,17 @@
+{
+  "ci": true,
+  "collect": {
+    "numberOfRuns": 3,
+    "staticDistDir": "./dist"
+  },
+  "assert": {
+    "assertMatrix": {
+      "Performance": [">=90"],
+      "Accessibility": [">=90"],
+      "Best Practices": [">=90"],
+      "SEO": [">=90"]
+    }
+  },
+  "output": ["json", "html"],
+  "chromeFlags": ["--disable-gpu", "--no-sandbox", "--headless"]
+}
