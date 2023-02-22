@@ -2,7 +2,7 @@ main {
   box-shadow: 12px 12px 12px 9px silver;
   width: 45% !important;
   margin-top: 12%;
-  padding: 0px 0px !important;
+  padding: 0 0 !important;
 }
 
 #list,
