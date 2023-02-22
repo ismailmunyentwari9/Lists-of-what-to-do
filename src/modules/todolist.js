@@ -3,7 +3,6 @@ const todolist = () => {
 
   const btn = document.querySelector('form');
   const listInput = document.querySelector('#lists-input');
-  const cleanAllDone = document.querySelector('#clearDones');
   const listHolder = document.querySelector('#list-holder');
 
   // ****Empty array for storing datas ****
@@ -51,14 +50,11 @@ const todolist = () => {
     }
   }
 
-   
-
   listHolder.addEventListener('click', (event) => {
     if (event.target.classList.contains('fa-ellipsis-v')) {
       event.target.classList.remove('fa-ellipsis-v');
       event.target.classList.add('fa-trash');
       event.target.parentElement.parentElement.style.backgroundColor = '#f39c12';
-     
     } else if (event.target.classList.contains('fa-trash')) {
     // Get the index of the element to be deleted
       const trash = event.target;
@@ -76,8 +72,7 @@ const todolist = () => {
     }
   });
 
-
-// Retrieve the listArray from Local Storage when the page is loaded..😎😊😉😎............
+  // Retrieve the listArray from Local Storage when the page is loaded..😎😊😉😎............
   window.addEventListener('load', () => {
     if (localStorage.getItem('listArray')) {
       listArray = JSON.parse(localStorage.getItem('listArray'));
@@ -89,8 +84,6 @@ const todolist = () => {
     listArray = JSON.parse(localStorage.getItem('listArray'));
     UI.displayData();
   }
-
-  
 };
 
 export default todolist;
