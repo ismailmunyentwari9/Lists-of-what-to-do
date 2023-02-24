@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](ismailmunyentwari9.github.io/book-ES6/)
+- [Live Demo Link](https://ismailmunyentwari9.github.io/Lists-of-what-to-do/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
