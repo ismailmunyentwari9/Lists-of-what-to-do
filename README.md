@@ -1,96 +1,145 @@
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)<br>
-- [🛠 Built With](#built-with)
+- [📖 About the Project](#about-TodoList)
+  - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-💻 Getting Started<br>
--Setup<br>
--Prerequisites<br>
-- [👥 Authors](#authors)<br>
-- [🔭 Future Features](#future-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#amen-and-Isma)
+- [🔭 Future Features](#the other pages)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [🙏 Acknowledgements](#microverse)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [TodoList Project ] <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 [Awesome Books] <a name="Awesome Books"></a>
 
-*[Todo list project]* It's an application wich helps to make a list of activities that someone needs to accomplish within a day
-it includes :  <br>
--List descriptions <br>
--Marking lists as done on the list <br>
--Removing lists that mark   ed as done <br>
-🛠 Built With<br>
-**Key Features**<br>
-simple Todo list Application, built with html5 & css3 and Javascript including linter configurattion.<br>
+**[TodoList]** Todo List Project is a simple application designed to help users create and manage lists of tasks to accomplish within a given time. The application allows users to add tasks, mark tasks as done, and remove tasks from the list.
 
-[Set up linters]<br>
-[Add Lists on UI]<br>
-[Mark lists as done]<br>
-[Add Remove done lits]<br>
-**Tech Stack**<br>
-This TodoList
-project, was built with html5 and css3
+## 🛠 Built With <a name="BOOTSTRAP,HTML, CSS and JAVASCRIPT"></a>
 
-Client<br>
-**.HTML**
-**.Javascript**
-**.CSS**
-**.Bootstrap**
+### Tech Stack <a name="BOOTSTRAP,HTML, CSS and JAVASCRIPT"></a>
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap">BOOTSTRAP</a></li>
+  </ul>
+</details>
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+  </ul>
+</details>
 
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 
-## 💻 Getting Started<br>
-To get a local copy up and running, follow these steps.<br>
+<details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
+</details>
 
-Prerequisites<br>
-In order to run this project you need:<br>
+<!-- Features -->
 
-Any IDE or text editor that supports HTML and CSS
-Git installed<br>
-Setup<br>
-Clone this repository to your desired folder:<br>
+### Key Features <a name="key-features"></a>
 
-1. Clone this repository or download the Zip folder:"<br>
-$ git clone <(https://github.com/ismailmunyentwari9/Lists-of-what-to-do.git)><br>
-2. Navigate to the location of the folder in your machine:<br>
-(C:\Users\AMANI\Documents\GitHub)<br>
-**3. Press Enter to navigate to your local clone.**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 👥 Author<a name="authors"></a>
-
-
-👤 *Ismail Munyentwari*
-
-- GitHub: [@ismailmunyentwari9](https://github.com/ismailmunyentwari9)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/munyentwari-ismail-754718191/)
-
+- **[list_of_TodoList]**
+- **[remove_TodoList_functionality]**
+- **[add_TodoList_functionality]**
+- **[local_storage_functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](ismailmunyentwari9.github.io/book-ES6/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
+Clone this repository to your desired folder using the following command; git clone https://github.com/ismailmunyentwari9/Lists-of-what-to-do.git
+
+### Run tests
+
+To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{css,scss}" and npx eslint .
+
+### Deployment
+
+You can deploy this project using Github pages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Ismail Munyentwari**
+
+- GitHub: [@Ismail-Munyentwari](https://github.com/ismailmunyentwari9)
+- LinkedIn: [@Ismail-Munyentwari](https://www.linkedin.com/in/munyentwari-ismail-754718191/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
--Create More pages.  <br>
--Adding a screen reader.  <br>
--adding direct emails to my email account for user feedbacks.  <br>
+
+- [ ] **[Header]**
+- [ ] **[Todo_List]**
+- [ ] **[Input-Field]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ismailmunyentwari9/Lists-of-what-to-do/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-This is my first biggests project i have done, I will  feel loved when you  give back some positive comments and likes 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank my partner Ridaa<br>who helped me to know where I have to correct the mistakes<br>
-I had done in my project 
+If you like this project then don't forget to give a star ⭐ on this repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank [Microverse](https://www.microverse.org/), for the original [design](https://github.com/microverseinc/curriculum-javascript/blob/main/books/m2_plain_js_classes_v1_1.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-<a name="readme-top"></a>
+This project is [MIT](LICENSE.md) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
